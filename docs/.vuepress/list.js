@@ -20,7 +20,7 @@ exports.HtmlCssList = [
     "html-css/2023-01-26-float.md",
     "html-css/2023-01-26-z-index.md",
     "html-css/2023-01-31-reset-normalize.md",
-]
+],
 // exports.InterviewList = [
     
 // ];
@@ -42,18 +42,18 @@ exports.HtmlCssList = [
 //     "IT-Knowledge/2022-12-09-api.md",
 //     "IT-Knowledge/2022-12-22-web-standard.md",
 // ];
-// exports.JavaScriptList = [
-//     "javascript/2021-webs-study-quiz.md",
-//     "javascript/2022-webs-study-quiz.md",
-//     "javascript/2022-09-30-dream-coding-learn-js.md",
-//     "javascript/2022-10-12-nomad-coder-chrome-app.md",
-//     "javascript/2022-12-02-ajax.md",
-//     "javascript/2022-12-07-ternary-operator",
-//     "javascript/2022-12-08-json",
-//     "javascript/2022-12-09-closure-anonymous",
-//     "javascript/2022-12-20-element-attribute",
-//     "javascript/2022-12-22-window-dom-bom",
-// ];
+exports.JavaScriptList = [
+    "javascript/2021-webs-study-quiz.md",
+    "javascript/2022-webs-study-quiz.md",
+    "javascript/2022-09-30-dream-coding-learn-js.md",
+    "javascript/2022-10-12-nomad-coder-chrome-app.md",
+    "javascript/2022-12-02-ajax.md",
+    "javascript/2022-12-07-ternary-operator",
+    "javascript/2022-12-08-json",
+    "javascript/2022-12-09-closure-anonymous",
+    "javascript/2022-12-20-element-attribute",
+    "javascript/2022-12-22-window-dom-bom",
+];
 // exports.LaravelList = [
 //     "laravel/2022-12-03-how-to-start-laravel-project.md"
 // ];

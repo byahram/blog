@@ -42,13 +42,13 @@ module.exports = {
       {
         title: "HTML/CSS",
         collapsable: true,
+        children: CONST.HtmlCssList,
+      },
+      {
+        title: "JavaScript",
+        collapsable: true,
         children: CONST.JavaScriptList,
       },
-      // {
-      //   title: "JavaScript",
-      //   collapsable: true,
-      //   children: CONST.JavaScriptList,
-      // },
       // {
       //   title: "React",
       //   collapsable: true,
