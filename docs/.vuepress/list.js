@@ -2,7 +2,7 @@ exports.BaekJoonList = [
     
 ];
 exports.FlutterList = [
-    "flutter/2023-06-11-how-to-start-flutter-project.md"
+    // "flutter/2023-06-11-how-to-start-flutter-project.md"
 ];
 exports.GsapList = [
     "gsap/2023-06-27-gsap-basic-tween.md",
