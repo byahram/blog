@@ -54,11 +54,11 @@ module.exports = {
         collapsable: true,
         children: CONST.ReactList,
       },
-      {
-        title: "Flutter",
-        collapsable: true,
-        children: CONST.FlutterList,
-      },
+      // {
+      //   title: "Flutter",
+      //   collapsable: true,
+      //   children: CONST.FlutterList,
+      // },
       {
         title: "GSAP",
         collapsable: true,
