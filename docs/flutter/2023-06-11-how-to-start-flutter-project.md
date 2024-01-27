@@ -10,7 +10,7 @@ comments : true
 
 <https://flutter.dev/>
 
-1) <https://docs.flutter.dev/get-started/install>에 들어가 내 pc에 맞는 os를 선택하여 설치하면 된다. 'flutter_windows_3.10.4-stable.zip' 버튼 클릭 후 다운받고 원하는 위치에 파일을 합축해제 한다.
+1) <https://docs.flutter.dev/get-started/install> 에 들어가 내 pc에 맞는 os를 선택하여 설치하면 된다. 'flutter_windows_3.10.4-stable.zip' 버튼 클릭 후 다운받고 원하는 위치에 파일을 합축해제 한다.
 
     ![missing](../assets/img/2023/230611_2.PNG)
 
@@ -34,7 +34,7 @@ comments : true
 
 ## 안드로이스 스튜디오 설치 
 
-1) <https://developer.android.com/studio>에서 안드로이드 스튜디오를 다운받고 다운받은 exe 파일을 실행시켜서 안드로이드 스튜디오를 실행한다.
+1) <https://developer.android.com/studio> 에서 안드로이드 스튜디오를 다운받고 다운받은 exe 파일을 실행시켜서 안드로이드 스튜디오를 실행한다.
 
 2) 실행된 안드로이드 스튜디오에 플러터와 다트 플러그인을 설치하고 안드로이드 스튜디오를 restart하면 'New Flutter Project' 버튼이 생긴 것을 확인할 수 있다. 
 
@@ -42,7 +42,7 @@ comments : true
 
     ![missing](../assets/img/2023/230611_7.PNG)
 
-Flutter SDK Path에 맨처음에 설치한 flutter 경로를 넣어준다.
+    Flutter SDK Path에 맨처음에 설치한 flutter 경로를 넣어준다.
 
     ![missing](../assets/img/2023/230611_8.PNG)
 
