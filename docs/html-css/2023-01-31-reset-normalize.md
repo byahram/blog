@@ -22,28 +22,28 @@ comments : true
 
 ## reset CSS란?
 
-* 웹 브라우저마다 다른 default 스타일이 지정되어 있는데 해당 값을 초기화 함으로써 다양한 웹 브라우저에서도 동일한 스타일이 적용되도록 하는 설정 파일이다.
-* 실무에서 편의에 의해 임의로 지저하는 설정값이다.
-* 제일 많이 사용되는 reset CSS
-* <https://meyerweb.com/eric/tools/css/reset/index.html>
+- 웹 브라우저마다 다른 default 스타일이 지정되어 있는데 해당 값을 초기화 함으로써 다양한 웹 브라우저에서도 동일한 스타일이 적용되도록 하는 설정 파일이다.
+- 실무에서 편의에 의해 임의로 지저하는 설정값이다.
+- 제일 많이 사용되는 reset CSS
+- <https://meyerweb.com/eric/tools/css/reset/index.html>
 
 <br>
 
 ## normalize CSS란?
 
-* 브라우저(모바일 브라우저를 포함)를 광범위하게 지원하며, HTML5 요소, 타이포그래피, 목록(lists). embeded 콘텐츠, 폼과 테이블을 일관성 있게 통일시키는 CSS다.
-* 사용하기 좋은 기본값들은 유지한다.
-* HTML 요소의 다양한 스타일을 정규화한다.
-* 버그 및 브라우저 간 차이점을 수정한다.
-* 부분적인 개선과 가용성을 향상시킨다.
-* 코드에 대한 자세한 주석이 달려있다.
-* cdn 기법으로 \<head> 태그 안에 링크로 적용할 수 있다.
-* <https://cdnjs.com/libraries/normalize>
+- 브라우저(모바일 브라우저를 포함)를 광범위하게 지원하며, HTML5 요소, 타이포그래피, 목록(lists). embeded 콘텐츠, 폼과 테이블을 일관성 있게 통일시키는 CSS다.
+- 사용하기 좋은 기본값들은 유지한다.
+- HTML 요소의 다양한 스타일을 정규화한다.
+- 버그 및 브라우저 간 차이점을 수정한다.
+- 부분적인 개선과 가용성을 향상시킨다.
+- 코드에 대한 자세한 주석이 달려있다.
+- cdn 기법으로 \<head> 태그 안에 링크로 적용할 수 있다.
+- <https://cdnjs.com/libraries/normalize>
 
 <br>
 
 ## ⚡ 참조
-* <https://parkjh7764.tistory.com/80>
-* <https://velog.io/@cjy0029/Normalize-Reset-뭘써야-할까>
+- <https://parkjh7764.tistory.com/80>
+- <https://velog.io/@cjy0029/Normalize-Reset-뭘써야-할까>
 
 <br>
