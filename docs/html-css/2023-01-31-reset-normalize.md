@@ -37,7 +37,7 @@ comments : true
 * 버그 및 브라우저 간 차이점을 수정한다.
 * 부분적인 개선과 가용성을 향상시킨다.
 * 코드에 대한 자세한 주석이 달려있다.
-* cdn 기법으로 <head> 태그 안에 링크로 적용할 수 있다.
+* cdn 기법으로 \<head> 태그 안에 링크로 적용할 수 있다.
 * <https://cdnjs.com/libraries/normalize>
 
 <br>
