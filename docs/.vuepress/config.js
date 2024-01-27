@@ -115,9 +115,8 @@ module.exports = {
     '@vuepress/nprogress',
     '@vuepress/pwa',
     '@vuepress/register-components',
-    '@vuepress/search', {
-      searchMaxSuggestions: 10
-    },
+    '@vuepress/search', { searchMaxSuggestions: 10 },
+    ["sitemap", { hostname: "https://byahram.github.io/blog/" }],
     '@vuepress/google-analytics', {
       'ga': '' // UA-00000000-0
     },
