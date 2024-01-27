@@ -1,13 +1,13 @@
 {
-  "name": "docs",
+  "name": "blog",
   "version": "0.0.1",
-  "description": "",
+  "description": "Ahram Kim | Blog",
   "main": "index.js",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "Ahram Kim",
+    "email": "ahram0223@naver.com"
   },
-  "repository": "/docs",
+  "repository": "/blog",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
