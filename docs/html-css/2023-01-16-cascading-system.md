@@ -22,9 +22,9 @@ HTML Element(요소)는 하나 이상의 스타일에 영향을 받을 수 있�
 
 ![missing](../assets/img/2023/230116_2.png)
 
-- User-agent Stylesheets (=Browser Define) : 브라우저가 기본으로 가지고 있는 스타일
-- User Stylesheets (=User Define) : 브라우저를 사용하는 사용자가 스타일시트를 지정 (요새 제공 안하는 경우가 많음)
-- Author Stylesheets (=Developer Define) : 웹 개발자가 사용하는 스타일시트 (우선 순위가 제일 높음)
+* User-agent Stylesheets (=Browser Define) : 브라우저가 기본으로 가지고 있는 스타일
+* User Stylesheets (=User Define) : 브라우저를 사용하는 사용자가 스타일시트를 지정 (요새 제공 안하는 경우가 많음)
+* Author Stylesheets (=Developer Define) : 웹 개발자가 사용하는 스타일시트 (우선 순위가 제일 높음)
 
 <br>
 
@@ -88,7 +88,7 @@ p {
 <br>
 
 ## ⚡Reference
-- <https://runcoding.tistory.com/19>
-- <https://victorydntmd.tistory.com/190>
+* <https://runcoding.tistory.com/19>
+* <https://victorydntmd.tistory.com/190>
 
 <br>
