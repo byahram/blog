@@ -49,26 +49,26 @@ module.exports = {
         collapsable: true,
         children: CONST.JavaScriptList,
       },
-      // {
-      //   title: "React",
-      //   collapsable: true,
-      //   children: CONST.ReactList,
-      // },
-      // {
-      //   title: "Flutter",
-      //   collapsable: true,
-      //   children: CONST.FlutterList,
-      // },
-      // {
-      //   title: "GSAP",
-      //   collapsable: true,
-      //   children: CONST.GsapList,
-      // },
-      // {
-      //   title: "Laravel",
-      //   collapsable: true,
-      //   children: CONST.LaravelList,
-      // },
+      {
+        title: "React",
+        collapsable: true,
+        children: CONST.ReactList,
+      },
+      {
+        title: "Flutter",
+        collapsable: true,
+        children: CONST.FlutterList,
+      },
+      {
+        title: "GSAP",
+        collapsable: true,
+        children: CONST.GsapList,
+      },
+      {
+        title: "Laravel",
+        collapsable: true,
+        children: CONST.LaravelList,
+      },
       // {
       //   title: "IT Knowledge",
       //   collapsable: true,
