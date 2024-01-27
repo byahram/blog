@@ -69,11 +69,11 @@ module.exports = {
         collapsable: true,
         children: CONST.LaravelList,
       },
-      // {
-      //   title: "IT Knowledge",
-      //   collapsable: true,
-      //   children: CONST.ITKnowledgeList,
-      // },
+      {
+        title: "IT Knowledge",
+        collapsable: true,
+        children: CONST.ITKnowledgeList,
+      },
       // {
       //   title: "예상면접질문",
       //   collapsable: true,
