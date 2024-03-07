@@ -12,16 +12,16 @@ exports.GsapList = [
     "gsap/2023-07-13-gsap-basic-keyframes.md"
 ];
 exports.HtmlList = [
-    "html-css/2022-12-15-doctype.md",
+    "html/2022-12-15-doctype.md",
 ],
 exports.CssList = [
-    "html-css/2023-01-16-cascading-system.md",
-    "html-css/2023-01-17-css-selector.md",
-    "html-css/2023-01-18-bfc-ifc.md",
-    "html-css/2023-01-18-box-model.md",
-    "html-css/2023-01-26-float.md",
-    "html-css/2023-01-26-z-index.md",
-    "html-css/2023-01-31-reset-normalize.md",
+    "css/2023-01-16-cascading-system.md",
+    "css/2023-01-17-css-selector.md",
+    "css/2023-01-18-bfc-ifc.md",
+    "css/2023-01-18-box-model.md",
+    "css/2023-01-26-float.md",
+    "css/2023-01-26-z-index.md",
+    "css/2023-01-31-reset-normalize.md",
 ],
 exports.InterviewList = [
     

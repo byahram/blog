@@ -5,7 +5,6 @@ module.exports = {
   base: "/blog/",
   /** Ref：https://v1.vuepress.vuejs.org/config/#title */
   title: "Today I Learned",
-  title: "TIL BLOG",
   /** Ref：https://v1.vuepress.vuejs.org/config/#description */
   description: description,
 
@@ -39,7 +38,7 @@ module.exports = {
     editLinkText: "Edit this page on Github",
     lastUpdated: false,
     smoothScroll: true,
-    logo: '/favicons/favicon-32x32.png',
+    // logo: '/favicons/favicon-16x16.png',
     sidebar: [
       {
         title: "HTML",
