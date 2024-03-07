@@ -1,5 +1,5 @@
 ---
-title: "[CSS] CSS Selector란?"
+title: "CSS Selector란?"
 comments : true
 ---
 

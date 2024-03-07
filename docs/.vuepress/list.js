@@ -11,8 +11,10 @@ exports.GsapList = [
     "gsap/2023-07-11-gsap-basic-final-project.md",
     "gsap/2023-07-13-gsap-basic-keyframes.md"
 ];
-exports.HtmlCssList = [
+exports.HtmlList = [
     "html-css/2022-12-15-doctype.md",
+],
+exports.CssList = [
     "html-css/2023-01-16-cascading-system.md",
     "html-css/2023-01-17-css-selector.md",
     "html-css/2023-01-18-bfc-ifc.md",

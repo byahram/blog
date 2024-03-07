@@ -1,5 +1,5 @@
 ---
-title: "[CSS] Cascading System이란?"
+title: "Cascading System이란?"
 comments : true
 ---
 

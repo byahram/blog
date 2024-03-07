@@ -1,5 +1,5 @@
 ---
-title: "[CSS] reset.css와 normalize.css"
+title: "reset.css와 normalize.css"
 comments : true
 ---
 
