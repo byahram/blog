@@ -37,7 +37,7 @@ module.exports = {
     //     children: CONST.LaravelList,
     //   },
     //   {
-    //     title: "IT Knowledge",
+    //     title: "Computer Science",
     //     collapsable: true,
     //     children: CONST.ITKnowledgeList,
     //   },
