@@ -44,9 +44,7 @@ exports.ReactList = [
 
 /** Vue */
 exports.VueList = [
-    "vue/2024-03-04-coding-apple-p1.md",
-    "vue/2024-03-05-coding-apple-p2.md",
-    "vue/2024-03-07-coding-apple-p3.md"
+    "vue/2024-03-04-coding-apple.md",
 ];
 
 /** Php */
