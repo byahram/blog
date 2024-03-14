@@ -2,22 +2,41 @@ const CONST = require("./list");
 
 module.exports = {
   "/": [
-    {
-      title: "HTML",
-      children: CONST.HtmlList,
-    },
+    //   {
+    //     title: "Computer Science",
+    //     collapsable: true,
+    //     children: CONST.ITKnowledgeList,
+    //   },
     {
       title: "CSS",
       children: CONST.CssList,
     },
-    {
-      title: "JavaScript",
-      children: CONST.JavaScriptList,
-    },
+    // {
+    //   title: "Flutter",
+    //   collapsable: true,
+    //   children: CONST.FlutterList,
+    // },
     // {
     //     title: "GSAP",
     //     children: CONST.GsapList,
     // },
+    {
+      title: "HTML",
+      children: CONST.HtmlList,
+    },
+    // {
+    //   title: "예상면접질문",
+    //   collapsable: true,
+    //   children: CONST.InterviewList,
+    // },
+    {
+      title: "JavaScript",
+      children: CONST.JavaScriptList,
+    },
+    {
+      title: "Laravel",
+      children: CONST.LaravelList,
+    },
     {
       title: "React",
       children: CONST.ReactList,
@@ -26,35 +45,5 @@ module.exports = {
       title: "Vue",
       children: CONST.VueList,
     },
-    // {
-    //   title: "Flutter",
-    //   collapsable: true,
-    //   children: CONST.FlutterList,
-    // },
-    //   {
-    //     title: "Laravel",
-    //     collapsable: true,
-    //     children: CONST.LaravelList,
-    //   },
-    //   {
-    //     title: "Computer Science",
-    //     collapsable: true,
-    //     children: CONST.ITKnowledgeList,
-    //   },
-    // {
-    //   title: "예상면접질문",
-    //   collapsable: true,
-    //   children: CONST.InterviewList,
-    // },
-    // {
-    //   title: "BaekJoon",
-    //   collapsable: true,
-    //   children: CONST.BaekJoonList,
-    // },
-    // {
-    //   title: "Programmers",
-    //   collapsable: true,
-    //   children: CONST.ProgrammersList,
-    // },
   ],
 };
