@@ -16,10 +16,10 @@ module.exports = {
     //   collapsable: true,
     //   children: CONST.FlutterList,
     // },
-    // {
-    //     title: "GSAP",
-    //     children: CONST.GsapList,
-    // },
+    {
+        title: "GSAP",
+        children: CONST.GsapList,
+    },
     {
       title: "HTML",
       children: CONST.HtmlList,

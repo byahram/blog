@@ -35,13 +35,10 @@ exports.FlutterList = [
 ];
 
 /** GSAP */
-// exports.GsapList = [
-//     "gsap/2023-06-27-gsap-basic-tween.md",
-//     "gsap/2023-06-29-gsap-basic-timelines.md",
-//     "gsap/2023-07-06-gsap-basic-buttons-effects.md",
-//     "gsap/2023-07-11-gsap-basic-final-project.md",
-//     "gsap/2023-07-13-gsap-basic-keyframes.md"
-// ];
+exports.GsapList = [
+    "gsap/2023-06-27-gsap-basic.md",
+    "gsap/2024-03-14-gsap-advanced.md",
+];
 
 /** HTML */
 exports.HtmlList = [
