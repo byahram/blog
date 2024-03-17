@@ -1,5 +1,5 @@
 /** computer-science */
-exports.ITKnowledgeList = [
+exports.ComputerScienceList = [
     "computer-science/2022-09-01-readme-emoji.md",
     "computer-science/2022-11-21-dbms.md",
     "computer-science/2022-11-22-url-protocol-tcp-ip.md",
@@ -18,21 +18,10 @@ exports.ITKnowledgeList = [
     "computer-science/2022-12-22-web-standard.md",
 ];
 
-/** CSS */
-exports.CssList = [
-    "css/2023-01-16-cascading-system.md",
-    "css/2023-01-17-css-selector.md",
-    "css/2023-01-18-bfc-ifc.md",
-    "css/2023-01-18-box-model.md",
-    "css/2023-01-26-float.md",
-    "css/2023-01-26-z-index.md",
-    "css/2023-01-31-reset-normalize.md",
-],
-
 //** Flutter */
-exports.FlutterList = [
-    // "flutter/2023-06-11-how-to-start-flutter-project.md"
-];
+// exports.FlutterList = [
+//     "flutter/2023-06-11-how-to-start-flutter-project.md"
+// ];
 
 /** GSAP */
 exports.GsapList = [
@@ -40,9 +29,16 @@ exports.GsapList = [
     "gsap/2024-03-14-gsap-advanced.md",
 ];
 
-/** HTML */
-exports.HtmlList = [
-    "html/2022-12-15-doctype.md",
+/** HTML/CSS */
+exports.HtmlCssList = [
+    "html-css/2022-12-15-doctype.md",
+    "html-css/2023-01-16-cascading-system.md",
+    "html-css/2023-01-17-css-selector.md",
+    "html-css/2023-01-18-bfc-ifc.md",
+    "html-css/2023-01-18-box-model.md",
+    "html-css/2023-01-26-float.md",
+    "html-css/2023-01-26-z-index.md",
+    "html-css/2023-01-31-reset-normalize.md",
 ],
 
 /** JavaScript */
@@ -59,9 +55,9 @@ exports.JavaScriptList = [
     "javascript/2022-12-22-window-dom-bom",
 ];
 
-/** Php */
-exports.LaravelList = [
-    "laravel/2022-12-03-how-to-start-laravel-project.md"
+/** Php-Laravel */
+exports.PhpLaravelList = [
+    "php-laravel/2022-12-03-how-to-start-laravel-project.md"
 ];
 
 /** React */
@@ -70,6 +66,6 @@ exports.ReactList = [
 ];
 
 /** Vue */
-exports.VueList = [
-    "vue/2024-03-04-coding-apple.md",
+exports.VueNuxtList = [
+    "vue-nuxt/2024-03-04-coding-apple.md",
 ];

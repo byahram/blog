@@ -1,5 +1,5 @@
 ---
-title: "Laravel Project 시작하기"
+title: "[Laravel] Laravel Project 시작하기"
 ---
 
 # Laravel Project 시작하기

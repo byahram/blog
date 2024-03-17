@@ -5,12 +5,8 @@ module.exports = {
     //   {
     //     title: "Computer Science",
     //     collapsable: true,
-    //     children: CONST.ITKnowledgeList,
+    //     children: CONST.ComputerScienceList,
     //   },
-    {
-      title: "CSS",
-      children: CONST.CssList,
-    },
     // {
     //   title: "Flutter",
     //   collapsable: true,
@@ -21,8 +17,8 @@ module.exports = {
         children: CONST.GsapList,
     },
     {
-      title: "HTML",
-      children: CONST.HtmlList,
+      title: "HTML/CSS",
+      children: CONST.HtmlCssList,
     },
     // {
     //   title: "예상면접질문",
@@ -34,16 +30,16 @@ module.exports = {
       children: CONST.JavaScriptList,
     },
     {
-      title: "Laravel",
-      children: CONST.LaravelList,
+      title: "Php/Laravel",
+      children: CONST.PhpLaravelList,
     },
     {
       title: "React",
       children: CONST.ReactList,
     },
     {
-      title: "Vue",
-      children: CONST.VueList,
+      title: "Vue/Nuxt",
+      children: CONST.VueNuxtList,
     },
   ],
 };
