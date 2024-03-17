@@ -17,7 +17,7 @@ module.exports = {
         children: CONST.GsapList,
     },
     {
-      title: "HTML/CSS",
+      title: "HTML / CSS",
       children: CONST.HtmlCssList,
     },
     // {
@@ -30,7 +30,7 @@ module.exports = {
       children: CONST.JavaScriptList,
     },
     {
-      title: "Php/Laravel",
+      title: "Php / Laravel",
       children: CONST.PhpLaravelList,
     },
     {
@@ -38,7 +38,7 @@ module.exports = {
       children: CONST.ReactList,
     },
     {
-      title: "Vue/Nuxt",
+      title: "Vue / Nuxt",
       children: CONST.VueNuxtList,
     },
   ],
