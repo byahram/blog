@@ -1,5 +1,6 @@
 /** computer-science */
 exports.ComputerScienceList = [
+    "computer-science/index.md",
     "computer-science/2022-09-01-readme-emoji.md",
     "computer-science/2022-11-21-dbms.md",
     "computer-science/2022-11-22-url-protocol-tcp-ip.md",
@@ -25,12 +26,14 @@ exports.ComputerScienceList = [
 
 /** GSAP */
 exports.GsapList = [
+    "gsap/index.md",
     "gsap/2023-06-27-gsap-basic.md",
     "gsap/2024-03-14-gsap-advanced.md",
 ];
 
 /** HTML/CSS */
 exports.HtmlCssList = [
+    "html-css/index.md",
     "html-css/2022-12-15-doctype.md",
     "html-css/2023-01-16-cascading-system.md",
     "html-css/2023-01-17-css-selector.md",
@@ -43,6 +46,7 @@ exports.HtmlCssList = [
 
 /** JavaScript */
 exports.JavaScriptList = [
+    "javascript/index.md",
     "javascript/2021-webs-study-quiz.md",
     "javascript/2022-webs-study-quiz.md",
     "javascript/2022-09-30-dream-coding-learn-js.md",
@@ -57,15 +61,18 @@ exports.JavaScriptList = [
 
 /** Php-Laravel */
 exports.PhpLaravelList = [
+    "php-laravel/index.md",
     "php-laravel/2022-12-03-how-to-start-laravel-project.md"
 ];
 
 /** React */
 exports.ReactList = [
+    "react/index.md",
     "react/2022-09-17-how-to-start-react-project.md"
 ];
 
 /** Vue */
 exports.VueNuxtList = [
+    "vue-nuxt/index.md",
     "vue-nuxt/2024-03-04-coding-apple.md",
 ];
