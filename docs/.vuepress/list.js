@@ -1,6 +1,5 @@
 /** computer-science */
 exports.ComputerScienceList = [
-    "computer-science/index.md",
     "computer-science/2022-09-01-readme-emoji.md",
     "computer-science/2022-11-21-dbms.md",
     "computer-science/2022-11-22-url-protocol-tcp-ip.md",
